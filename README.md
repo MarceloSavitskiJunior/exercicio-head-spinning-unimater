@@ -4,19 +4,33 @@
 
 ## respondendo suas questões absurdas
 
-##### O que significa o git add?
-###### adiciona as modificações na camada de stash
+##### git add <<
+###### adiciona as modificações na camada cache (indexa suas alterações)
 
-##### O que significa o git pull?
+##### git pull <<
 ###### puxa as informações de alguma branch para a branch atual
 
-##### Como acessar uma branch?
+##### git commit <<
+###### salva suas alterações no repositório local
+
+##### git status <<
+######
+
+##### git log <<
+###### acessa o histórico dos commits
+
+##### git push <<
+###### 
+
+##### git fetch <<
+
+##### Como acessar uma branch? <<
 ###### git checkout >branch<
 
-##### Como trocar de branch?
+##### Como trocar de branch? <<
 ###### git checkout >branch<
 
-##### Como deletar uma branch?
+##### Como deletar uma branch? <<
 ###### git branch -d >nome-da-branch<
 
 ##### Para resolver o conflito do código, por que é preferível utilizar o rebase em vez do merge?
